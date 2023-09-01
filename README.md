@@ -52,7 +52,10 @@ yay -S ~/.dotfiles/packages.txt
 
 
 ## TODO List
+- Organize these growing steps into multiple script files.
+- Automate symlinking and run script files with a bootstrapping tool like [Dotbot](https://github.com/anishathalye/dotbot).
 - Revisit the list in [`.bashrc`](.bashrc) to customize the shell.
+- Make a checklist of steps to decommission your computer before wiping your hard drive.
 - Make a checklist of steps to decommission your computer before wiping your hard drive.
 - Create a [bootable USB installer for Arch Linux](https://wiki.archlinux.org/title/Installation_guide).
 - Integrate other cloud services into your Dotfiles process (Dropbox, Google Drive, etc.).
