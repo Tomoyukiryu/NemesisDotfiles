@@ -52,7 +52,7 @@ yay -S ~/.dotfiles/packages.txt
 
 
 ## TODO List
-- Revisit the list in [`.zshrc`](.zshrc) to customize the shell.
+- Revisit the list in [`.bashrc`](.bashrc) to customize the shell.
 - Make a checklist of steps to decommission your computer before wiping your hard drive.
 - Create a [bootable USB installer for Arch Linux](https://wiki.archlinux.org/title/Installation_guide).
 - Integrate other cloud services into your Dotfiles process (Dropbox, Google Drive, etc.).
