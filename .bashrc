@@ -10,3 +10,4 @@ PS1='[\u@\h \W]\$ '
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/tomo/.mujoco/mujoco210/bin
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidia
 . "$HOME/.cargo/env"
+alias vim=nvim
